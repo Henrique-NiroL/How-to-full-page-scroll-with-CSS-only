@@ -1,4 +1,4 @@
-# How-to-scroll-snap-property-in-CSS
+# How-to-full-page-scroll-with-CSS-only
 One of the trends in web design can be solved with this CSS property
 
 
